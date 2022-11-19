@@ -5,7 +5,6 @@ para este caso no se uso un dispositivo fisico sino que se entablo una conexion 
 ![image](https://user-images.githubusercontent.com/66834393/202835565-ac6801e3-f385-4ef4-a9e7-e1d8790157eb.png)
 
 
-
 Ejemplo caso de uso para joystick-jhr.
 en este caso se usara un ejemplo para controlar un carro robot el cual utiliza la comunicacion entre arduino y python. 
 ![image](https://user-images.githubusercontent.com/66834393/202563099-a49f253e-c282-4533-885b-b1c6c3d02ae0.png)
