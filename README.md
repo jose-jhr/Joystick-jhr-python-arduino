@@ -3,7 +3,7 @@ Joystick para arduino move car
 
 para este caso no se uso un dispositivo fisico sino que se entablo una conexion con proteus.
 ![image](https://user-images.githubusercontent.com/66834393/202835565-ac6801e3-f385-4ef4-a9e7-e1d8790157eb.png)
-![Uploading subir_git.png…]()
+![subir_git](https://user-images.githubusercontent.com/66834393/202902640-e7cd46c1-388a-488e-aa67-33a686ac919a.png)
 
 Ejemplo caso de uso para joystick-jhr.
 en este caso se usara un ejemplo para controlar un carro robot el cual utiliza la comunicacion entre arduino y python. 
